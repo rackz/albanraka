@@ -1,7 +1,7 @@
 package raka;
 
 /**
- * ICS3U 
+ *AboutMe.java 
  * About me
  * Alban Raka
  * September 13, 2016
@@ -16,7 +16,7 @@ public class AboutMe {
 		System.out.println("Alban Raka");
 		System.out.println("Ms. Kemp");
 		System.out.println("Runnymede Collegiate Institue");
-		System.out.println("Go Ravens");
+		System.out.println("\"Go Ravens!\"");
 		
 		System.out.format("%-10s %8s %8s","Period","day 1","day2\n");
 		System.out.format("%-10s %8s %8s","Period 1: 08:45-10:02","BAF3M","BAF3M\n");

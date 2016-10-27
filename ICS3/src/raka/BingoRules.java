@@ -4,10 +4,12 @@
 package raka;
 
 /**
- * @author 325102069
- *
+ *Alban Raka
+ *BingoExercise2.java
+ *Rules for bingo
+ *24/10/2016
  */
-public class BingoExcersise2 {
+public class BingoRules {
 
 	/**
 	 * @param args

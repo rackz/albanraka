@@ -4,10 +4,12 @@
 package raka;
 
 /**
- * @author 325102069
- *
+ * Alban Raka
+ *Exercise7.java
+ * 24/10/2016
+ *Definitions of java terminology
  */
-public class Exercise7 {
+public class JavaTerminolgy {
 
 	/**
 	 * @param args
