@@ -10,7 +10,7 @@ import java .util.Scanner;
  *Alban Raka
  *03/11/2016
  *Printing.java 
- *
+ *This program prompts the user for the number of copies to print and then displays the price per copy and the total price for the job
  */
 public class Printing {
 

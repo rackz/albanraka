@@ -4,8 +4,10 @@
 package Raka;
 
 /**
- * @author 325102069
- *
+ *Alban Raka
+ *14/11/2016
+ *Random1.java
+ *Ask the user for there name, 70% of the time its there favourite name and 30% of the time it is not
  */
 import java.util.Scanner;
 

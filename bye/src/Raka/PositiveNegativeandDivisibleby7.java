@@ -5,8 +5,10 @@ package Raka;
 
 import java.util.Scanner;
 /**
- * @author 325102069
- *
+ *Alban Raka
+ *PositiveNegativeandDivisibleby7.java
+ *14/11/2016
+ *This program tells you if the number you entered is positive, negative, or divisible by 7
  */
 public class PositiveNegativeandDivisibleby7 {
 

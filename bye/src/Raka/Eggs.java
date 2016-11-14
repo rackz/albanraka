@@ -10,7 +10,7 @@ import java.text.DecimalFormat;
  *Alban Raka
  *03/11/2016
  *Eggs.java
- *
+ *This program asks for the number of eggs and tells the user the price
  */
 public class Eggs {
 
