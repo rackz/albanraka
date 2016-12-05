@@ -23,7 +23,8 @@ public class GuessingGame {
         Scanner scan= new Scanner(System.in);
         
         int number;
-        int CorrectGuess = (int)(Math.random()*29)+2;
+        int CorrectGuess = (int)(Math.random()*20)+1;
+        		
         System.out.println("Enter a number between 1-20: ");
         number=scan.nextInt();
         
