@@ -59,7 +59,7 @@ public class Mississippi {
 	 * draws the letter S
 	 */
     public static void printS(){
-     	System.out.println(" SSSSS ");
+     	System.out.println(" SSSSS ");  
      	System.out.println("S     S");
      	System.out.println("S");
      	System.out.println(" SSSSS ");
