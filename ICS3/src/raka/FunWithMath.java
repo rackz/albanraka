@@ -6,7 +6,10 @@ package raka;
 import java.util.Scanner;
 
 /**
- * @author 325102069
+ *Alban Raka
+ *FunWithMath.java
+ *This program adds, subtracts, multiply, and divides two numbers
+ *19/01/17
  *
  */
 public class FunWithMath {
