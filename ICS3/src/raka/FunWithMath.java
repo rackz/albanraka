@@ -8,7 +8,7 @@ import java.util.Scanner;
 /**
  *Alban Raka
  *FunWithMath.java
- *This program adds, subtracts, multiply, and divides two numbers
+ *This program adds, subtracts, multiply, and divides two numbers.
  *19/01/17
  *
  */
