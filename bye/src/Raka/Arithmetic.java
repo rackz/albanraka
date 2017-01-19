@@ -1,7 +1,7 @@
 /**
  * 
  */
-package raka;
+package Raka;
 
 import java.util.Scanner;
 
